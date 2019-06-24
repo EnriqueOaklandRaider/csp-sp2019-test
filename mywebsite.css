@@ -1,0 +1,16 @@
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<head>
+<title>Search Engine Title Goes Here</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+
+<div id="container"></div>
+<div id="header"><p> Header Goes Here</p></div>
+<div id="sidebar"><p> Left Navigation Goes Here</p></div>
+<div id="content"><p> Content Goes Here</p></div>
+<div id="footer"></div>
+</body>
+</html>
+  
